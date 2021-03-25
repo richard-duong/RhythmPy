@@ -6,8 +6,8 @@ class CommandQuery:
     nowplaying = "!nowplaying"  # complete nowplaying command
     replay = "!replay"          # complete replay command
     loop = "!loop"              # complete loop command
-    skip = "!skip"              # complete
-    stop = "!stop"              # complete
+    skip = "!skip"              # complete skip command
+    stop = "!stop"              # complete stop command
     pause = "!pause"            # optional
     resume = "!resume"          # optional
     seek = "!seek"              # optional
