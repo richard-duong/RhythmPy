@@ -38,6 +38,13 @@ class CommandMode:
     stop_song = 18
     stop_error = 19
 
+class PlayMode:
+    idle = -1
+    play = 0
+    stop = 1
+    pause = 2
+    error = 3
+
 
 
 """
